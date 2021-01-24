@@ -1,7 +1,4 @@
-# title(){
-		
-		return this.options.title || this.options.name;
-	}
+React Scrimba!
 
 Quick start:
 
