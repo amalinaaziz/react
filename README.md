@@ -1,4 +1,7 @@
-React Lession in Scrimba
+# title(){
+		
+		return this.options.title || this.options.name;
+	}
 
 Quick start:
 
