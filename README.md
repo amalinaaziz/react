@@ -1,4 +1,12 @@
-React Lession in Scrimba
+# React Lessons in Scrimba
+
+## Branches
+
+- lesson-01 - passing props to component and get json data from js file
+- lesson-02 - class format, state, event and form
+- lesson-03 - dietary profile example
+- lesson-04 - meme generator
+
 
 Quick start:
 
