@@ -1,4 +1,5 @@
 # React Lessons in Scrimba
+Technologies are growing fast so I keep on learning to keep up!
 
 ## Branches
 
