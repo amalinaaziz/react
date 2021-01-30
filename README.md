@@ -13,6 +13,7 @@ Quick start:
 
 ```
 $ yarn # npm install
+$ yarn # npm start
 $ yarn build # npm run build
 ````
 
